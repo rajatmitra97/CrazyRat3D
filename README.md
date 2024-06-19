@@ -1,4 +1,4 @@
-#Rat Runner - Unity Game
+# Rat Runner - Unity Game
 Welcome to Rat Runner, an exciting endless runner game developed using Unity! Guide your nimble rat through dynamically generated levels, dodge obstacles, collect power-ups and coins, and avoid the menacing bird enemy. Survive as long as you can and achieve the highest score!
 
 #Table of Contents
